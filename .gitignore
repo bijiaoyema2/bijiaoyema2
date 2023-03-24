@@ -1,0 +1,18 @@
+_site/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.bundle
+vendor
+_cache
+.jekyll-metadata
+.jekyll-cache/
+.sass-cache/
+
+# To prevent accidental push of translations from
+# Transifex.
+.tx/translations/
